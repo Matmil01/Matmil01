@@ -18,24 +18,12 @@ Currently, I'm focused on learning as much as possible, including some of that *
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 🎨 Design
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-
 ## 📊 GitHub Stats
-<!-- total commits, stars, etc. -->
-![](https://github-readme-stats.vercel.app/api?username=matmil01&theme=dark&hide_border=false&include_all_commits=true)<br/>
-
 <!-- Streak -->
 ![](https://nirzak-streak-stats.vercel.app/?user=matmil01&theme=dark&hide_border=false&dummy=1)<br/>
 <!-- Top Languages -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matmil01&theme=dark&hide_border=false&include_all_commits=true&layout=compact&exclude_repo=Retroz&cache_seconds=3600&v=1)
-
-
-## 🔝 Top Contributed Repo
+<!-- Top Contributed Repo -->
 ![](https://github-contributor-stats.vercel.app/api?username=matmil01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
