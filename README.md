@@ -22,7 +22,7 @@ Currently, I'm focused on learning as much as possible, including some of that *
 <!-- Streak -->
 ![](https://nirzak-streak-stats.vercel.app/?user=matmil01&theme=dark&hide_border=false&dummy=1)<br/>
 <!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matmil01&theme=dark&hide_border=false&include_all_commits=true&layout=compact&exclude_repo=Retroz&cache_seconds=3600&v=1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matmil01&theme=dark&hide_border=false&include_all_commits=true&layout=compact&exclude_repo=Retroz&cache_seconds=3600&v=2)
 <!-- Top Contributed Repo -->
 ![](https://github-contributor-stats.vercel.app/api?username=matmil01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
