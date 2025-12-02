@@ -7,8 +7,6 @@
 I'm a multimedia design student who loves working with **Vue.js** and building awesome stuff.  
 Currently, I'm focused on learning as much as possible, including some of that **backend shit**.
 
-## 🛠️ Tech Stack
-
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -19,10 +17,8 @@ Currently, I'm focused on learning as much as possible, including some of that *
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-<!-- Streak -->
-![](https://nirzak-streak-stats.vercel.app/?user=matmil01&theme=dark&hide_border=false&dummy=1)<br/>
 <!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matmil01&theme=dark&hide_border=false&include_all_commits=true&layout=compact&exclude_repo=Retroz&cache_seconds=3600&v=2)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matmil01&theme=dark&layout=compact&hide_border=false&include_all_commits=true&exclude_repo=Retroz&cache_seconds=86400)
 <!-- Top Contributed Repo -->
 ![](https://github-contributor-stats.vercel.app/api?username=matmil01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
