@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color-gradient=bf4b8a,9D00FF,bf4b8a&height=150&section=header&text=Hellewwww!👋&fontSize=60&fontColor=ffffff" />
 </p>
 
-## 🚀 About Me
+## 🙈 About Me
 
 I'm a multimedia design student who loves working with **Vue.js** and building awesome stuff.  
 Currently, I'm focused on learning as much as possible, including some of that **backend shit**.
@@ -15,11 +15,3 @@ Currently, I'm focused on learning as much as possible, including some of that *
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## 📊 GitHub Stats
-<!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matmil01&theme=dark&layout=compact&hide_border=false&include_all_commits=true&exclude_repo=Retroz&cache_seconds=86400)
-<!-- Top Contributed Repo -->
-![](https://github-contributor-stats.vercel.app/api?username=matmil01&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
